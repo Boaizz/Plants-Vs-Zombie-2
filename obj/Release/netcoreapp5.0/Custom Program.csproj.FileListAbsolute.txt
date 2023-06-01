@@ -1,0 +1,5 @@
+D:\Plants-and-Zombies-631628e8faa4243bed821d19b608d3b0c376c20a\obj\Release\netcoreapp5.0\Custom Program.csproj.AssemblyReference.cache
+D:\Plants-and-Zombies-631628e8faa4243bed821d19b608d3b0c376c20a\obj\Release\netcoreapp5.0\Custom Program.GeneratedMSBuildEditorConfig.editorconfig
+D:\Plants-and-Zombies-631628e8faa4243bed821d19b608d3b0c376c20a\obj\Release\netcoreapp5.0\Custom Program.AssemblyInfoInputs.cache
+D:\Plants-and-Zombies-631628e8faa4243bed821d19b608d3b0c376c20a\obj\Release\netcoreapp5.0\Custom Program.AssemblyInfo.cs
+D:\Plants-and-Zombies-631628e8faa4243bed821d19b608d3b0c376c20a\obj\Release\netcoreapp5.0\Custom Program.csproj.CoreCompileInputs.cache
