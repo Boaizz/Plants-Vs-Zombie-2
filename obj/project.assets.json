@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Swinburne\\COS20007\\CustomprogramHD\\PVZ\\Custom Program.csproj",
+      "projectUniqueName": "D:\\Swinburne\\PVZ2\\Plants-Vs-Zombie-2\\Custom Program.csproj",
       "projectName": "Custom Program",
-      "projectPath": "D:\\Swinburne\\COS20007\\CustomprogramHD\\PVZ\\Custom Program.csproj",
+      "projectPath": "D:\\Swinburne\\PVZ2\\Plants-Vs-Zombie-2\\Custom Program.csproj",
       "packagesPath": "C:\\Users\\Tony\\.nuget\\packages\\",
-      "outputPath": "D:\\Swinburne\\COS20007\\CustomprogramHD\\PVZ\\obj\\",
+      "outputPath": "D:\\Swinburne\\PVZ2\\Plants-Vs-Zombie-2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tony\\AppData\\Roaming\\NuGet\\NuGet.Config",
