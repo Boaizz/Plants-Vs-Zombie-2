@@ -1,5 +1,5 @@
 # Plants-Vs-Zombie-2
-Welcome to the repository of Plants vs Zombies 2, a tower defense game developed in C# using the SplashKit SDK. This project utilizes Object-Oriented Programming (OOP) concepts and integrates design patterns including Singleton, State, and Factory Method.
+This is the custom program for COS20009-Object Oriented Programming, a tower defense game developed in C# using the SplashKit SDK. This project utilizes Object-Oriented Programming (OOP) concepts and integrates design patterns including Singleton, State, and Factory Method.
 ## Requirements 
 .NET Core 5.0 SDK 
 
