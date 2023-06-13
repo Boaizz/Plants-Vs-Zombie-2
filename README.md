@@ -2,6 +2,7 @@
 Welcome to the repository of Plants vs Zombies 2, a tower defense game developed in C# using the SplashKit SDK. This project utilizes Object-Oriented Programming (OOP) concepts and integrates design patterns including Singleton, State, and Factory Method.
 ## Requirements 
 .NET Core 5.0 SDK 
+
 SplashKit SDK
 ## Design Patterns
 ### Singleton
@@ -14,7 +15,7 @@ In Plants vs Zombies 2, we utilize the Factory Method design pattern to create d
 The `ZombieFactory` interface is fundamental in implementing this pattern.
 
 ## Screenshots
-![Alt text](image.png)
-![Alt text](image1.png)
-![Alt text](image2.png)
+![Alt text](https://github.com/Boaizz/Plants-Vs-Zombie-2/blob/master/screenshots/image.png)
+![Alt text](https://github.com/Boaizz/Plants-Vs-Zombie-2/blob/master/screenshots/image1.png)
+![Alt text](https://github.com/Boaizz/Plants-Vs-Zombie-2/blob/master/screenshots/image2.png)
 
